@@ -1,0 +1,22 @@
+weekday,day,month,year,home,away,homename,awayname,home_position,away_position,home_won,away_won,home_drawn,away_drawn,home_lost,away_lost,home_avg_goal,away_avg_goal,home_avg_conceded,away_avg_conceded,home_clean_sheet,away_clean_sheet,home_change_created,away_change_created
+6,30,3,2019,14,13,Fulham,Manchester City,19,2,4,24,5,2,22,4,0.94,2.63,2.26,0.7,2,14,1.23,2.8
+7,31,3,2019,15,1,Brighton and Hove Albion,Southampton,15,16,9,7,6,9,14,14,1.1,1.13,1.45,1.67,6,6,1,1.13
+7,31,3,2019,24,9,Burnley,Wolverhampton Wanderers,17,7,8,12,6,8,17,10,1.13,1.27,1.9,1.2,6,7,1.23,1.7
+7,31,3,2019,2,12,Crystal Palace,Huddersfield Town,14,20,9,3,6,5,15,23,1.2,0.58,1.37,1.84,9,5,0.93,0.65
+7,31,3,2019,8,3,Leicester City,AFC Bournemouth,10,12,12,11,5,5,14,15,1.29,1.39,1.39,1.81,7,8,1.42,1.84
+7,31,3,2019,16,6,Manchester United,Watford,5,8,17,12,7,7,6,11,1.93,1.4,1.33,1.47,7,7,1.7,1.8
+7,31,3,2019,10,11,West Ham United,Everton,9,11,12,11,6,7,13,13,1.32,1.39,1.48,1.35,5,9,1.35,1.32
+7,31,3,2019,21,4,Cardiff City,Chelsea,18,6,8,17,4,6,18,7,0.9,1.67,1.9,1.1,8,12,0.83,2.03
+1,1,4,2019,7,5,Liverpool,Tottenham Hotspur,1,3,23,20,7,1,1,9,2.26,1.9,0.58,1.07,17,10,1.97,1.77
+2,2,4,2019,20,22,Arsenal,Newcastle United,4,13,18,9,6,8,6,14,2.1,1,1.3,1.29,6,9,2.03,1.1
+15,3,4,2019,6,14,Watford,Fulham,8,19,12,4,7,5,11,22,1.4,0.94,1.47,2.26,7,2,1.8,1.23
+15,3,4,2019,9,16,Wolverhampton Wanderers,Manchester United,7,5,12,17,8,7,10,6,1.27,1.93,1.2,1.33,7,7,1.7,1.7
+4,4,4,2019,4,15,Chelsea,Brighton and Hove Albion,6,15,17,9,6,6,7,14,1.67,1.1,1.1,1.45,12,6,2.03,1
+4,4,4,2019,13,21,Manchester City,Cardiff City,2,18,24,8,2,4,4,18,2.63,0.9,0.7,1.9,14,8,2.8,0.83
+4,4,4,2019,5,2,Tottenham Hotspur,Crystal Palace,3,14,20,9,1,6,9,15,1.9,1.2,1.07,1.37,10,9,1.77,0.93
+6,6,4,2019,1,7,Southampton,Liverpool,16,1,7,23,9,7,14,1,1.13,2.26,1.67,0.58,6,17,1.13,1.97
+6,6,4,2019,3,24,AFC Bournemouth,Burnley,12,17,11,8,5,6,15,17,1.39,1.13,1.81,1.9,8,6,1.84,1.23
+6,6,4,2019,12,8,Huddersfield Town,Leicester City,20,10,3,12,5,5,23,14,0.58,1.29,1.84,1.39,5,7,0.65,1.42
+6,6,4,2019,22,2,Newcastle United,Crystal Palace,13,14,9,9,8,6,14,15,1,1.2,1.29,1.37,9,9,1.1,0.93
+7,7,4,2019,11,20,Everton,Arsenal,11,4,11,18,7,6,13,6,1.39,2.1,1.35,1.3,9,6,1.32,2.03
+2,9,4,2019,4,10,Chelsea,West Ham United,6,9,17,12,6,6,7,13,1.67,1.32,1.1,1.48,12,5,2.03,1.35

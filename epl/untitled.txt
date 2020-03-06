@@ -1,0 +1,38 @@
+Aston Villa,0
+Blackburn,1
+Bolton,2
+Chelsea,3
+Everton,4
+Portsmouth,5
+Stoke,6
+Wolves,7
+Man United,8
+Tottenham,9
+Sunderland,10
+Wigan,11
+Birmingham,12
+Burnley,13
+Hull,14
+Liverpool,15
+Arsenal,16
+Birmingham,17
+Man City,18
+Fulham,19
+West Ham,20
+Bolton,21
+Brighton,22
+Huddersfield,23
+Leicester,24
+Watford,25
+Crystal Palace,26
+Southampton,27
+Cardiff,28
+West Brom,29
+Newcastle,30
+Blackpool,31
+QPR,32
+Swansea,33
+Norwich,34
+Reading,35
+Bournemouth,36
+Middlesbrough,37
